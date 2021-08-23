@@ -1,0 +1,17 @@
+container 
+ left right 23
+ up 282
+ bottom 150
+card
+ radius 22
+ width 156
+ height 182
+ corners 23
+ horizontal 17
+ vertical 16
+
+circle 62 X 62
+
+photo 101 X 101
+
+text and photo distance 24
